@@ -1,0 +1,40 @@
+
+/* This one I also took from the old Timesheet Website */
+
+/* structure */
+body {
+	background-color:#eeeeee;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	text-align:center;
+}
+div.wrapper {
+	width:810px;
+	margin: 0 auto;
+	font-size:14px;
+	text-align:left;
+	padding:5px;
+	border:none;
+}
+h1{
+    font-size:20px;
+	font-weight:bold;
+	color:#8800aa;
+	border-left:4px #cccccc solid;
+	padding-left:5px;
+    margin-bottom: 5px;
+}
+div.fields {
+	float:left;
+	width:130px;
+    line-height: 20px;
+}
+div.input-result {
+	float:right;
+	width:650px;
+}
+fieldset.SearchData{
+    margin:12px;
+    margin-right: 20px;
+}
